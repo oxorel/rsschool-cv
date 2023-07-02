@@ -1,1 +1,1 @@
-# rsschool-cv
+https://oxorel.github.io/rsschool-cv/cv
