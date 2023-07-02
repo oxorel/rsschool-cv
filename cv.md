@@ -26,3 +26,4 @@ $('.tking').toggleClass('hide');
 - russian
 - english
 - serbian 
+<a href="https://rs.school/js/"><img src="https://rs.school/images/rs_school_js.svg" width="250" alt="logo"></a>
